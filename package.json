@@ -17,13 +17,12 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-    "less": "^3.8.1",
-    "node-fs": "^0.1.7"
-  },
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/Asher-/atom-compile-less/issues"
   },
-  "homepage": "https://github.com/Asher-/atom-compile-less"
+  "homepage": "https://github.com/Asher-/atom-compile-less",
+  "dependencies": {
+    "ccc-less-compiler": "^1.0.0"
+  }
 }
