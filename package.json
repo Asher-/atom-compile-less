@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Asher-/atom-compile-less",
   "dependencies": {
-    "ccc-less-compiler": "^1.0.0"
+    "ccc-less-compiler": "^1.0.1"
   }
 }
